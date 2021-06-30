@@ -20,3 +20,6 @@ Data/carp_homdol_alc_ageb_pob2.csv
 Data/carp_homdol_alc_ageb_pob3.csv
 Data/gdf_nans.geojson
 Data/gdf_nans_delitos.geojson
+Data/02_municipios.csv
+Data/02_ProdMun.csv
+Data/all_data.csv
